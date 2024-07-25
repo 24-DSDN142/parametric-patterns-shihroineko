@@ -1,6 +1,5 @@
 //your parameter variables go here!
-let rect_width  = 20;
-let rect_height = 20;
+
 
 
 function setup_wallpaper(pWallpaper) {
@@ -19,5 +18,15 @@ function wallpaper_background() {
 }
 
 function my_symbol() { // do not rename this function. Treat this similarly to a Draw function
-  rect(40 ,40, rect_width, rect_height);
+  
+  arc(50, 50, 80, 80, PI, 0, PIE)
+
+
+
+
+
+
+
+
+
 }
