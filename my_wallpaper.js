@@ -18,9 +18,7 @@ function wallpaper_background() {
 }
 
 function my_symbol() { // do not rename this function. Treat this similarly to a Draw function
-  
-  arc(50, 50, 80, 80, PI, 0, PIE)
-
+  arc(75, 75, 25, 25, PI, 0,)
 
 
 
