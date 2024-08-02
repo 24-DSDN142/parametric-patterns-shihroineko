@@ -23,7 +23,7 @@ let sW = 2
 
 function setup_wallpaper(pWallpaper) {
   angleMode(DEGREES);
-  pWallpaper.output_mode(DEVELOP_GLYPH);
+  pWallpaper.output_mode(GRID_WALLPAPER);
   pWallpaper.resolution(NINE_PORTRAIT);
   pWallpaper.show_guide(false); //set this to false when you're ready to print
 
